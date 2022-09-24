@@ -1,0 +1,12 @@
+C:\Users\llssp\OneDrive\Documents\Sem 3\Game Programming\KBC\obj\Debug\KBC.Properties.Resources.resources
+C:\Users\llssp\OneDrive\Documents\Sem 3\Game Programming\KBC\obj\Debug\KBC.csproj.GenerateResource.cache
+C:\Users\llssp\OneDrive\Documents\Sem 3\Game Programming\KBC\obj\Debug\KBC.csproj.CoreCompileInputs.cache
+C:\Users\llssp\OneDrive\Documents\Sem 3\Game Programming\KBC\bin\Debug\KBC.exe.config
+C:\Users\llssp\OneDrive\Documents\Sem 3\Game Programming\KBC\bin\Debug\KBC.exe
+C:\Users\llssp\OneDrive\Documents\Sem 3\Game Programming\KBC\bin\Debug\KBC.pdb
+C:\Users\llssp\OneDrive\Documents\Sem 3\Game Programming\KBC\obj\Debug\KBC.csproj.AssemblyReference.cache
+C:\Users\llssp\OneDrive\Documents\Sem 3\Game Programming\KBC\obj\Debug\KBC.exe
+C:\Users\llssp\OneDrive\Documents\Sem 3\Game Programming\KBC\obj\Debug\KBC.pdb
+C:\Users\llssp\OneDrive\Documents\Sem 3\Game Programming\KBC\obj\Debug\KBC.Form2.resources
+C:\Users\llssp\OneDrive\Documents\Sem 3\Game Programming\KBC\obj\Debug\KBC.csproj.SuggestedBindingRedirects.cache
+C:\Users\llssp\OneDrive\Documents\Sem 3\Game Programming\KBC\obj\Debug\KBC.Form1.resources
